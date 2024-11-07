@@ -1,7 +1,7 @@
-/* 
- *
- *
- *
+/* Name: Huthsady Legend Boun 
+ * Professor Edwards
+ * November 6th 2024
+ * Description: Short program that allows for Linear Search algorithm to check for an account number.
 */
 
 
